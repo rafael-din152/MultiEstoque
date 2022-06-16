@@ -1,0 +1,5 @@
+C:/Users/Marcelino/Desktop/MultiEstoque/build-MultiEstoque-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Marcelino/Desktop/MultiEstoque/build-MultiEstoque-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/MultiEstoque.dir
+C:/Users/Marcelino/Desktop/MultiEstoque/build-MultiEstoque-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Marcelino/Desktop/MultiEstoque/build-MultiEstoque-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/MultiEstoque_autogen_timestamp_deps.dir
+C:/Users/Marcelino/Desktop/MultiEstoque/build-MultiEstoque-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/MultiEstoque_autogen.dir
